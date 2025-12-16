@@ -1,0 +1,46 @@
+# RadFest Website Requirements
+
+## Overview
+- Build a website for "RadFest", a weekend music festival.
+- The site layout should feature endless scrolling.
+
+## Pages/Sections
+1. **Landing Page**
+   - Festival description area
+   - Section for festival-related videos
+   - Music player for featured tracks/playlist
+   - Photo gallery of festival images
+   - Style: Like a bio page for a company/festival
+
+2. **Registration Form**
+   - Embed a Google Form for festival signup/registration
+   - Space for the external form link (to be inserted or provided)
+
+3. **FAQ**
+   - Populate with the FAQ section from README.md
+   - Display standard FAQ list (Q&A)
+
+## Content
+- Use main content (description, FAQ, etc.) from `README.md` as much as possible.
+
+## UX/UI Instructions
+- Endless scroll design (vertical continuous sections, with anchor or jump navigation if needed)
+- use RadFest as the background color theme!
+
+## Open Questions / Clarifications
+1. **Framework/Stack:**
+   - Preferred front-end stack (React, Next.js, HTML/CSS, etc.)? Whatever you think works best
+2. **Layout:**
+   - Should all major sections be on one scrollable page (single-page), or split into multiple routes joined by scrolling? Single Scroll
+3. **Media:**
+   - Will you provide links/assets for videos/photos/music, or should placeholders be used? Yes just put place holders for the link
+   - Type of music player preferred (Spotify, SoundCloud, or custom)? embedded soundcloud
+   - Is the Google Form link available, or insert a placeholder? Insert place holder
+4. **Style/Branding:**
+   - Any color, theme, or branding preferences for RadFest? Not at this time do whimsical style
+   - Should the site be mobile-friendly/responsive? Yes mobile friendly and desktop
+5. **FAQ Functionality:**
+   - Should FAQ entries be expandable/collapsible (accordion)? flat list
+6. **Extra Features:**
+   - Should the site include analytics, social links, newsletter signup, etc.?
+
